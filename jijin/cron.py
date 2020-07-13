@@ -69,7 +69,7 @@ def runJijin():
     except:
       print code
       print "error........."
-  now_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-  print "time:"
-  print now_time
+  # now_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+  # print "time:"
+  # print now_time
     
